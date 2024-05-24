@@ -1,0 +1,7 @@
+.mainFlex {
+  display: flex;
+}
+
+.mainFlex > * {
+  flex: 1;
+}
